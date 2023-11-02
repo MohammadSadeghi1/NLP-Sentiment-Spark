@@ -1,1 +1,1 @@
-# Sentiment-Analysis-of-Amazon-Customers-with-Spark
+# NLP-Sentiment-Spark
